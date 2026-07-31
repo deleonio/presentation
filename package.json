@@ -23,17 +23,17 @@
 		"unused": "knip"
 	},
 	"dependencies": {
-		"@public-ui/components": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/react-v19": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/sample-react": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/theme-bwst": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/theme-default": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/theme-desy": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/theme-ecl": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
-		"@public-ui/theme-kern": "4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0",
+		"@public-ui/components": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/react-v19": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/sample-react": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/theme-bwst": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/theme-default": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/theme-desy": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/theme-ecl": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
+		"@public-ui/theme-kern": "4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0",
 		"react": "19.2.8",
 		"react-dom": "19.2.8",
-		"react-router": "7.18.2"
+		"react-router": "8.3.0"
 	},
 	"devDependencies": {
 		"@playwright/test": "1.60.0",

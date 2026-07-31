@@ -9,29 +9,29 @@ importers:
   .:
     dependencies:
       '@public-ui/components':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
       '@public-ui/react-v19':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       '@public-ui/sample-react':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(ajv@8.20.0)
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(ajv@8.20.0)(react-dom@19.2.8(react@19.2.8))(react-router@8.3.0(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(react@19.2.8)
       '@public-ui/theme-bwst':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))
       '@public-ui/theme-default':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))
       '@public-ui/theme-desy':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))
       '@public-ui/theme-ecl':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))
       '@public-ui/theme-kern':
-        specifier: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-        version: 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))
+        specifier: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+        version: 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))
       react:
         specifier: 19.2.8
         version: 19.2.8
@@ -39,8 +39,8 @@ importers:
         specifier: 19.2.8
         version: 19.2.8(react@19.2.8)
       react-router:
-        specifier: 7.18.2
-        version: 7.18.2(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+        specifier: 8.3.0
+        version: 8.3.0(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
     devDependencies:
       '@playwright/test':
         specifier: 1.60.0
@@ -684,54 +684,59 @@ packages:
   '@polka/url@1.0.0-next.29':
     resolution: {integrity: sha512-wwQAWhWSuHaag8c4q/KN/vCoeOJYshAIvMQwD4GpSb3OiZklFfvAgmj0VCBBImRpuF/aFgIRzllXlVX93Jevww==}
 
-  '@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-xcGrp9G7FN38fmABYJXDmDjUUVn2Jp40C8UO1xE5CEyJX7cTfttvf4ZldCRFKQpdeHLxiL1R2kS6gx14+8fd0A==}
+  '@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-gJ6m8A7TYsAOMoyttWVM9dLlW8WFKggQRZAluwflc8/NAXh8sJNnbJlBWzdPgPOdyWsQEwWcERI5Y3U0qY3IDg==}
     hasBin: true
     peerDependencies:
       adopted-style-sheets: 1.1.9-rc.25
 
-  '@public-ui/react-hook-form-adapter@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-oM8d243lBlwTl9PjpSs4sR++A/buT6AVDF/9FZ8owyQzIBEiV04LAJS55uXXPAVNbqn7ViJgWgl8DCvQtYJKCw==}
+  '@public-ui/react-hook-form-adapter@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-VY5RB3i8iR1sNzVqRaS37bPaGb4mcOfrEulLknQ78f/SCfP/kR/7YgZOqBsZUBBx1r/RiNGniQFAlkbr8XdlGw==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
-      '@public-ui/react-v19': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+      '@public-ui/react-v19': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
       react: 19.x
       react-hook-form: 7.x
 
-  '@public-ui/react-v19@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-Hif6yD8HZ1izXItMfG1dPSdZlftaV6Ea2y/GuBmWKstDoaC4sqJ22Ux6LMOaM9+7ILJOBd7BnPe9m59k0Egm5A==}
+  '@public-ui/react-v19@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-xSqg6aQpEWbVQrJ60C9tnNHhOkuD2dHZdxqv35XoSJhBvUfjPbY0qxQQo/akQ+WM6vXRLdt8MNFdBo8N//FCwg==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
       react: 19.x
       react-dom: 19.x
 
-  '@public-ui/sample-react@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-XHaW5BDRrVX1WtHZkAhSHp5gB2jHQou08kq/Ct12P3EAC0FfS/tqpO9oqzoX+yKzSV3BxroI+u4vcxjg1cyTGA==}
-
-  '@public-ui/theme-bwst@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-4TE1L7cymcTEUc9EBreXXzOtc+mNefjrFg+nz6FPsIJem0B7ne1q59PFF24N+7E9RFZAnUO++I1F+xoGkR1ALA==}
+  '@public-ui/sample-react@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-/aI+3SO23hRP6235nU6QfOWqozl4sv9goTbhGm/myNvljxsM1oTzwyv249zRsgcjx4eKADsAkgaxp6v1lZNQNA==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+      react: 19.2.8
+      react-dom: 19.2.8
+      react-router: 8.3.0
 
-  '@public-ui/theme-default@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-ywutZzlnOte0dN9YJUDrpcZtjPw3u7JgK26FSXIZH0anTayUm4ttdI2aTauG3cKhL/vYXdlE6ZllW4tsUWWBCQ==}
+  '@public-ui/theme-bwst@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-tHypK42mRD0vjFzB5pWqqrNxn2j45wUe76BCU6fd8aQDuQw66eNXJd9ifPEULqzt7L6C+Gh764o7O8ByqFsccw==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
 
-  '@public-ui/theme-desy@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-uoqr4M1mwOeOtqNycogRm9jQEHV1RhoPCSB0yqPvT5Cr4pvnLbHWo1QXAnAW2bRGUuxXRp1BEmNavZjcyDNHgw==}
+  '@public-ui/theme-default@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-RCa0B5NVtNbKMm6moRG6r5ImKpyltAsW/XDbqiss1WYSbWNpClCYfCfZz78LojiFp8C5fetyykZCrsJPjo1Ehw==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
 
-  '@public-ui/theme-ecl@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-ILtNfG6CTf63f7rFtiD66UTLSYCEGJ4X3Qb5p32Yx34mhRF0aftT+MkUDVK3MiE+XHS55mrzHYiCVcBxYtGEIg==}
+  '@public-ui/theme-desy@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-QviHePCwdcGwDRnh5k2VDVvT4FQ6yxBr/ZQpQcKBKTQUw5Q9JlLXV4kOyFtBtBK9EYeS3cffdMSYr4+fodlKJw==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
 
-  '@public-ui/theme-kern@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0':
-    resolution: {integrity: sha512-MX7Wsy4o9EbZRGYfR5V7JVoNGp56wwXxKK7OTQq2TWtWj3kESRCVGdC3/ddMx0HzVzH7ak7bakFQ8t2F7waIdw==}
+  '@public-ui/theme-ecl@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-9z59tZee3YHUE9RKdCCatCTcWZ9Fb0OM9pwgIG/LwH5sEXYNw4nhtHiI5RFWUJoNcN4z6q0pYP0DuzFBT6iehA==}
     peerDependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
+
+  '@public-ui/theme-kern@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0':
+    resolution: {integrity: sha512-xJNuj2kPJJlCcztuwiqFSFodFZb97Rw+wRAbpluspE4kCr2xjV4RaegSMWzZSjqN+16QCibTCjHwY6jMcXHS9A==}
+    peerDependencies:
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0
 
   '@quansync/fs@1.0.0':
     resolution: {integrity: sha512-4TJ3DFtlf1L5LDMaM6CanJ/0lckGNtJcMjQ1NAV6zDmA0tEHKZtxNKin8EgPaVX1YzljbxckyT2tJrpQKAtngQ==}
@@ -1054,10 +1059,6 @@ packages:
 
   cookie-es@3.1.1:
     resolution: {integrity: sha512-UaXxwISYJPTr9hwQxMFYZ7kNhSXboMXP+Z3TRX6f1/NyaGPfuNUZOWP1pUEb75B2HjfklIYLVRfWiFZJyC6Npg==}
-
-  cookie@1.1.1:
-    resolution: {integrity: sha512-ei8Aos7ja0weRpFzJnEA9UHJ/7XQmqglbRwnf2ATjcB9Wq874VKH9kfjjirM6UhU2/E5fFYadylyhFldcqSidQ==}
-    engines: {node: '>=18'}
 
   cosmiconfig@9.0.2:
     resolution: {integrity: sha512-gtTZxTDau1wL7Y7zifc2dd8jHSK/k6BTx/2Xp/BpdlAdnlYWFVt7qhJqgwi7637yRwRQ3qL4ZidbB4I8tA5VOg==}
@@ -1691,23 +1692,6 @@ packages:
       react: ^0.14 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
       react-dom: ^0.14 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
-  react-router-dom@7.18.2:
-    resolution: {integrity: sha512-AIKJ/jgGlFb3EbfCXk5Gzshiwt+l3mqbCrNjmEWMMjqQxNJ3svBa6bgzFyCC2Sw3RA0VWF1kg3uQf2OFhxb8hw==}
-    engines: {node: '>=20.0.0'}
-    peerDependencies:
-      react: '>=18'
-      react-dom: '>=18'
-
-  react-router@7.18.2:
-    resolution: {integrity: sha512-aUVMjFm3GAPTTZL7oYr5E7ETiqfQCHRLH+B+5afnICvf0r7kkK4eR6SMuwbSTJw/7t+12khT/Kahij49fqOCIg==}
-    engines: {node: '>=20.0.0'}
-    peerDependencies:
-      react: '>=18'
-      react-dom: '>=18'
-    peerDependenciesMeta:
-      react-dom:
-        optional: true
-
   react-router@8.3.0:
     resolution: {integrity: sha512-qyPMvW83jGIct3yiieisxdk9M745anqhpIMKN5m1t6yBMfgVPpt77aHOqs5fUlEJRMCGffg9BaQLH9oPVOL7xQ==}
     engines: {node: '>=22.22.0'}
@@ -1882,9 +1866,6 @@ packages:
 
   scheduler@0.27.0:
     resolution: {integrity: sha512-eNv+WrVbKu1f3vbYJT/xtiF5syA5HPIMtf9IgY/nKg0sWqzAUEvqY/xm7OcZc/qafLx/iO9FgOmeSAp4v5ti/Q==}
-
-  set-cookie-parser@2.7.2:
-    resolution: {integrity: sha512-oeM1lpU/UvhTxw+g3cIfxXHyJRc/uidd3yK1P242gzHds0udQBYzs3y8j4gCCW+ZJ7ad0yctld8RYO+bdurlvw==}
 
   shebang-command@2.0.0:
     resolution: {integrity: sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA==}
@@ -2526,7 +2507,7 @@ snapshots:
 
   '@polka/url@1.0.0-next.29': {}
 
-  '@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)':
+  '@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)':
     dependencies:
       '@floating-ui/dom': 1.8.0
       adopted-style-sheets: 1.1.9-rc.25
@@ -2538,38 +2519,34 @@ snapshots:
       typed-bem: 1.0.2
       wcag-contrast: 3.0.0
 
-  '@public-ui/react-hook-form-adapter@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(@public-ui/react-v19@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(react-hook-form@7.83.0(react@19.2.8))(react@19.2.8)':
+  '@public-ui/react-hook-form-adapter@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(@public-ui/react-v19@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(react-hook-form@7.83.0(react@19.2.8))(react@19.2.8)':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
-      '@public-ui/react-v19': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/react-v19': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       react: 19.2.8
       react-hook-form: 7.83.0(react@19.2.8)
 
-  '@public-ui/react-v19@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
+  '@public-ui/react-v19@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
       react: 19.2.8
       react-dom: 19.2.8(react@19.2.8)
 
-  '@public-ui/sample-react@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(ajv@8.20.0)':
+  '@public-ui/sample-react@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(ajv@8.20.0)(react-dom@19.2.8(react@19.2.8))(react-router@8.3.0(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(react@19.2.8)':
     dependencies:
       '@hookform/resolvers': 5.5.7(ajv@8.20.0)(react-hook-form@7.83.0(react@19.2.8))(zod@4.4.3)
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
-      '@public-ui/react-hook-form-adapter': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(@public-ui/react-v19@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(react-hook-form@7.83.0(react@19.2.8))(react@19.2.8)
-      '@public-ui/react-v19': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/react-hook-form-adapter': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(@public-ui/react-v19@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8))(react-hook-form@7.83.0(react@19.2.8))(react@19.2.8)
+      '@public-ui/react-v19': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       '@stencil/core': 4.38.3
       '@types/node': 26.1.2
       '@types/papaparse': 5.5.2
-      '@types/react': 19.2.17
-      '@types/react-dom': 19.2.3(@types/react@19.2.17)
-      adopted-style-sheets: 1.1.9-rc.25
       papaparse: 5.5.4
       react: 19.2.8
       react-dom: 19.2.8(react@19.2.8)
       react-hook-form: 7.83.0(react@19.2.8)
       react-number-format: 5.4.5(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       react-router: 8.3.0(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
-      react-router-dom: 7.18.2(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
       tslib: 2.8.1
       typescript: 5.9.3
       world_countries_lists: 3.3.0
@@ -2599,25 +2576,25 @@ snapshots:
       - vest
       - yup
 
-  '@public-ui/theme-bwst@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))':
+  '@public-ui/theme-bwst@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
 
-  '@public-ui/theme-default@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))':
+  '@public-ui/theme-default@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
 
-  '@public-ui/theme-desy@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))':
+  '@public-ui/theme-desy@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
 
-  '@public-ui/theme-ecl@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))':
+  '@public-ui/theme-ecl@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
 
-  '@public-ui/theme-kern@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(@public-ui/components@4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25))':
+  '@public-ui/theme-kern@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(@public-ui/components@4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25))':
     dependencies:
-      '@public-ui/components': 4.3.0-4ee0734eadda2c69344a4386b7d580fd54e4ddca.0(adopted-style-sheets@1.1.9-rc.25)
+      '@public-ui/components': 4.3.0-1cea5c014f28c37a067d2ecd282424ecb1c45020.0(adopted-style-sheets@1.1.9-rc.25)
 
   '@quansync/fs@1.0.0':
     dependencies:
@@ -2889,8 +2866,6 @@ snapshots:
   consola@3.4.2: {}
 
   cookie-es@3.1.1: {}
-
-  cookie@1.1.1: {}
 
   cosmiconfig@9.0.2(typescript@5.9.3):
     dependencies:
@@ -3483,20 +3458,6 @@ snapshots:
       react: 19.2.8
       react-dom: 19.2.8(react@19.2.8)
 
-  react-router-dom@7.18.2(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
-    dependencies:
-      react: 19.2.8
-      react-dom: 19.2.8(react@19.2.8)
-      react-router: 7.18.2(react-dom@19.2.8(react@19.2.8))(react@19.2.8)
-
-  react-router@7.18.2(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
-    dependencies:
-      cookie: 1.1.1
-      react: 19.2.8
-      set-cookie-parser: 2.7.2
-    optionalDependencies:
-      react-dom: 19.2.8(react@19.2.8)
-
   react-router@8.3.0(react-dom@19.2.8(react@19.2.8))(react@19.2.8):
     dependencies:
       cookie-es: 3.1.1
@@ -3650,8 +3611,6 @@ snapshots:
     optional: true
 
   scheduler@0.27.0: {}
-
-  set-cookie-parser@2.7.2: {}
 
   shebang-command@2.0.0:
     dependencies:

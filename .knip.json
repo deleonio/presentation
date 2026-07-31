@@ -1,0 +1,6 @@
+{
+	"$schema": "https://unpkg.com/knip@5/schema.json",
+	"entry": ["src/react.main.tsx", "unocss.config.ts"],
+	"ignoreDependencies": ["@public-ui/react-v19", "uno.css"],
+	"project": ["**/*.ts", "**/*.tsx"]
+}
